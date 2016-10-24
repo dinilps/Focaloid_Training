@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "971315456090",
+    "firebase_url": "https://focaloid-training.firebaseio.com",
+    "project_id": "focaloid-training",
+    "storage_bucket": "focaloid-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971315456090:android:18dc53e7f434a2b5",
+        "android_client_info": {
+          "package_name": "com.focaloid.focaloid_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971315456090-hcp5ind4jlrhe4tkcp1lp16ae21gsl1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAV3iwTtONBKfbig5uYVgkIc_QPp5NKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
